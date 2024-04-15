@@ -1,15 +1,15 @@
-![MasterHead](   https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![MasterHead](   https://miro.medium.com/v2/0*KALp6KA9khbSc80x.gif)
 <h1 align="center">Hi 👋, I'm Pranjal Sarnaik</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
-<img align="right" width="450" src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966"alt="Coder" >
+<h3 align="center">A passionate Data Analytics from India</h3>
+<img align="right" width="450" src="https://camo.githubusercontent.com/b70081ec9c6d16a35bf18610619030bfc810cda3118051cf75ace93700e233c1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e67696"alt="Coder" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalsarnail21&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalsarnail21" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analytics**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **SQL,PowerBi,MS Excel**
+- 💬 Ask me about **statistical analysis,core python, python libraries - pandas matplotlib, num py , seaborn**
 
 - 📫 How to reach me **psarnaik007@gmail.com**
 
