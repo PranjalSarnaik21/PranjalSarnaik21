@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Analyst**
 
-- 💬 Ask me about **SQL,PowerBi,MS Excel**
+- 💬 Ask me about **SQL,Python(numpy,pandas,matplotlib,seaborn),Statistical Analysis,PowerBI,MS Excel,Machine_Learning(SciKit-Learn)**
 
 - 📫 How to reach me **psarnaik007@gmail.com**
 
